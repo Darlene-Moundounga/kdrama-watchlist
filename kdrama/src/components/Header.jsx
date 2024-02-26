@@ -1,7 +1,7 @@
 function pageTitle() {
   return (
     <div>
-      <h1>Watch K-Dramas</h1>
+      <h1>WatchList K-Dramas</h1>
     </div>
   )
 }

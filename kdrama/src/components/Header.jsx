@@ -1,4 +1,4 @@
-function pageTitle() {
+function Header() {
   return (
     <div>
       <h1>WatchList K-Dramas</h1>
@@ -6,4 +6,4 @@ function pageTitle() {
   )
 }
 
-export default pageTitle
+export default Header

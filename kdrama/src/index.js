@@ -4,14 +4,14 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Header from './components/Header'
 import About from './components/About'
-import Card from './components/Card'
+import Home from './Pages/Home';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Header/>
     <About/>
-    <Card/>
+    <Home/>
   </React.StrictMode>
 );
 

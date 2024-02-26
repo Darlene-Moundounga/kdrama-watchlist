@@ -1,4 +1,4 @@
-function aboutSection() {
+function About() {
     return (
         <div>
             <p>Bienvenue sur WatchList K-Drama , votre espace dédié aux passionnés de K-dramas ! 
@@ -12,4 +12,4 @@ function aboutSection() {
     )
 }
 
-export default aboutSection
+export default About

@@ -1,4 +1,4 @@
-function kdramaCard({cover, title,genres}) {
+function Card({cover, title,genres}) {
     return(
         <div>
            <img src={cover} alt="Couverture du kdrama" />
@@ -8,4 +8,4 @@ function kdramaCard({cover, title,genres}) {
     )
 }
 
-export default kdramaCard
+export default Card

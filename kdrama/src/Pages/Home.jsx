@@ -3,13 +3,14 @@ import kdramaData from '../data/kdramas.json'
 
 function Home() {
     return ( 
-        <div>
+        <div className='Card-Content'>
              {
                 kdramaData.map((kdrama) =>  {
                     return <Card 
                     cover={kdrama.cover}
                     title={kdrama.title}
-                    genres={kdrama.genres} />
+                    genres={kdrama.genres} 
+                    id={kdrama.title}/>
                 })
              }   
         </div>

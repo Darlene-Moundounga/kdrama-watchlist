@@ -1,7 +1,7 @@
 function About() {
     return (
         <div>
-            <p>Bienvenue sur WatchList K-Drama , votre espace dédié aux passionnés de K-dramas ! 
+            <p className="about">Bienvenue sur WatchList K-Drama , votre espace dédié aux passionnés de K-dramas ! 
                 Plongez dans l'univers captivant des séries coréennes avec cette watchlist. 
                 Explorez les résumés, découvrez les acteurs talentueux, 
                 et créer votre propre watchlist K-Drama. De la romance envoûtante à l'action palpitante, 

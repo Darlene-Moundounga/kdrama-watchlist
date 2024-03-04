@@ -1,7 +1,7 @@
 function Header() {
   return (
     <div>
-      <h1>WatchList K-Dramas</h1>
+      <h1 className="title">WatchList K-Dramas</h1>
     </div>
   )
 }

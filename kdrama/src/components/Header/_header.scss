@@ -1,4 +1,21 @@
 header{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: beige;
+    padding: 10px;
+    nav{
+        display: flex;
+        gap: 10px;
+        color: black;
+        margin: 20px;
+    }
+    a{
+        color: black;
+        text-decoration: none;
+    }
 }

@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header>
-      <h1>DramaVerse</h1>
+      <a href="#"><h1>DramaVerse</h1></a>
       <nav>
         <a href="#">A propos</a>
         <a href="#">K-dramas</a>

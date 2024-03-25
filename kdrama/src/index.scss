@@ -18,11 +18,9 @@ code {
 @import url(./components/Header/_header.scss);
 @import url(./components/pageTitle/_title.scss);
 @import url(./components/Card/_card.scss);
+@import url(./components/About/_about.scss);
 
-.about{
-  margin: 20px;
-  font-weight: normal;
-}
+
 
 .Card-Content{
   display: flex;

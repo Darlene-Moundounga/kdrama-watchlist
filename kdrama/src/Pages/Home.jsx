@@ -1,4 +1,4 @@
-import About from '../components/About'
+import About from '../components/About/About'
 import Card from '../components/Card/Card'
 import Header from '../components/Header/Header'
 import Title from '../components/pageTitle/Title'

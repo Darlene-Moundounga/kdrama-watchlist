@@ -1,0 +1,9 @@
+.about{
+    display: flex;
+    justify-content: center;
+    .aboutText{
+        margin: 20px;
+        font-weight: normal;
+        max-width: 900px;
+      }
+}

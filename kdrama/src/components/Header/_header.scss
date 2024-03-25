@@ -7,12 +7,16 @@ header{
     top: 0;
     width: 100%;
     padding: 10px;
-    border-bottom: 2px solid white;
+    background-color: #efe9f4;
+    border-bottom: 1px solid black;
+    h1{
+        margin:0 ;
+    }
     nav{
         display: flex;
         gap: 10px;
         color: black;
-        margin: 20px;
+        margin-right: 20px;
         a:focus{
             text-decoration: underline;
             text-underline-position: under;

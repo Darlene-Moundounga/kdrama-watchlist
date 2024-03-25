@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Acme", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.title{
+  display: flex;
+  justify-content: center;
+}
+
+.about{
+  margin: 20px;
+  font-weight: normal;
+}
+.Card{
+  width:206px;
+  height: auto;
+  background-color: #F3D2FF;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  img{
+    width: 206px;
+    height: 193px;
+    object-fit: cover;
+    border-radius: 20px 20px 0 0;
+    margin-bottom: 5px;
+  }
+  
+  p{
+    margin: 0 0 10px 0;
+  }
+  
+  .cardTitle{
+    font-size: 25px;
+  }
+  
+  .cardGenre{
+    font-size: 15px;
+  }
+}
+
+.Card-Content{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin: 30px;
+  background: linear-gradient(#5B3C83,#8A7493,#B1B1B1);
+  padding: 25px;
+  border-radius: 10px;
+}
+
+
+

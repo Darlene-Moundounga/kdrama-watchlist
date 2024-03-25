@@ -1,9 +1,9 @@
-function Card({cover, title,genres,id}) {
+function Card({cover, title,genres}) {
     return(
-        <div className="Card" key={id}>
+        <div className="Card" key={title}>
            <img src={cover} alt="Couverture du kdrama" />
-           <p>{title}</p>
-           <p>{genres}</p>
+           <p className="cardTitle">{title}</p>
+           <p className="cardGenre">{genres}</p>
         </div>
     )
 }

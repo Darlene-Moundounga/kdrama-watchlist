@@ -1,8 +1,13 @@
+import About from '../components/About'
 import Card from '../components/Card'
+import Header from '../components/Header'
 import kdramaData from '../data/kdramas.json'
 
 function Home() {
     return ( 
+        <div>
+            <Header/>
+            <About/>
         <div className='Card-Content'>
              {
                 kdramaData.map((kdrama) =>  {
@@ -10,9 +15,10 @@ function Home() {
                     cover={kdrama.cover}
                     title={kdrama.title}
                     genres={kdrama.genres} 
-                    id={kdrama.title}/>
+                    key={kdrama.title}/>
                 })
              }   
+        </div>
         </div>
     )
 }

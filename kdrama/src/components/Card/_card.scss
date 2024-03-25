@@ -1,0 +1,33 @@
+.Card{
+    width:200px;
+    height: 300px;
+    background-color: #efe9f4;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 3px solid white;
+    cursor: pointer;
+  
+    img{
+      width: 100%;
+      height: 70%;
+      object-fit: cover;
+      border-radius: 20px 20px 0 0;
+      margin-bottom: 5px;
+    }
+    
+    p{
+      margin: 0 0 10px 0;
+    }
+    
+    .cardTitle{
+      font-size: 18px;
+      font-weight: bolder;
+    }
+    
+    .cardGenre{
+      font-size: 12px;
+    }
+  }
+  

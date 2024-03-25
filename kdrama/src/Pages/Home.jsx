@@ -1,5 +1,5 @@
 import About from '../components/About'
-import Card from '../components/Card'
+import Card from '../components/Card/Card'
 import Header from '../components/Header/Header'
 import Title from '../components/pageTitle/Title'
 import kdramaData from '../data/kdramas.json'

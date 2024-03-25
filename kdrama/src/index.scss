@@ -17,40 +17,11 @@ code {
 
 @import url(./components/Header/_header.scss);
 @import url(./components/pageTitle/_title.scss);
-
+@import url(./components/Card/_card.scss);
 
 .about{
   margin: 20px;
   font-weight: normal;
-}
-.Card{
-  width:206px;
-  height: auto;
-  background-color: #F3D2FF;
-  border-radius: 20px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-  img{
-    width: 206px;
-    height: 193px;
-    object-fit: cover;
-    border-radius: 20px 20px 0 0;
-    margin-bottom: 5px;
-  }
-  
-  p{
-    margin: 0 0 10px 0;
-  }
-  
-  .cardTitle{
-    font-size: 25px;
-  }
-  
-  .cardGenre{
-    font-size: 15px;
-  }
 }
 
 .Card-Content{

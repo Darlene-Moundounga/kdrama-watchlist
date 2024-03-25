@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+$color-primary : linear-gradient(315deg, #5078f2 0%, #efe9f4 74%) ;
+
 
 body {
   margin: 0;
@@ -6,6 +7,7 @@ body {
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: $color-primary;
 }
 
 code {

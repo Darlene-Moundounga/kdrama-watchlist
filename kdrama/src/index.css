@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
 @import url(./components/Header/_header.scss);
 @import url(./components/pageTitle/_title.scss);
 body {
@@ -7,6 +6,7 @@ body {
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(315deg, #5078f2 0%, #efe9f4 74%);
 }
 
 code {

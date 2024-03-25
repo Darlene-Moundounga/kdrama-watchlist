@@ -1,10 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+$color-primary : linear-gradient(315deg, #5078f2 0%, #efe9f4 74%) ;
+
 
 body {
   margin: 0;
-  font-family: "Acme", sans-serif;
+  font-family: "Itim", cursive;
+  font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: $color-primary;
 }
 
 code {
@@ -13,6 +16,8 @@ code {
 }
 
 @import url(./components/Header/_header.scss);
+@import url(./components/pageTitle/_title.scss);
+
 
 .about{
   margin: 20px;
@@ -53,7 +58,6 @@ code {
   flex-wrap: wrap;
   gap: 30px;
   margin: 30px;
-  background: linear-gradient(#5B3C83,#8A7493,#B1B1B1);
   padding: 25px;
   border-radius: 10px;
 }

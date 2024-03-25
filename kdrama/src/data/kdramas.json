@@ -11,6 +11,50 @@
         "genres" : "Drame - Comédie - Romance"
     },
     {
+        "cover":"https://www.nautiljon.com/images/drama/00/36/mini/beauty_and_mr_romantic_8663.webp?10" ,
+        "title" : "Beauty and Mr Romantic",
+        "genres" : "Romance - Vie sociale"
+    },
+    
+    {
+        "cover":"https://www.nautiljon.com/images/drama/00/26/mini/hide_8662.webp?11711148654" ,
+        "title" : "Hide",
+        "genres" : " Mystère - Suspense - Thriller"
+    },
+    {
+        "cover":"https://www.nautiljon.com/images/drama/00/75/mini/wedding_impossible_8657.webp?10" ,
+        "title" : "Wedding Impossible",
+        "genres" : "Romance"
+    },
+    
+    {
+        "cover":"https://www.nautiljon.com/images/drama/00/03/mini/queen_of_tears_8630.webp?11710343036" ,
+        "title" : "Queen of Tears",
+        "genres" : " Romance - Drame"
+    },
+    {
+        "cover":"https://www.nautiljon.com/images/drama/00/59/mini/king_the_land_7795.webp?11700254230" ,
+        "title" : "King The Land",
+        "genres" : "Romance"
+    },
+    
+    {
+        "cover":"https://www.nautiljon.com/images/drama/00/47/mini/the_glory_7274.webp?11683850297" ,
+        "title" : "True Glory",
+        "genres" : " Drame - Mélodrame - Thriller"
+    },
+    {
+        "cover":"https://www.nautiljon.com/images/drama/00/67/mini/remarriage_desires_7276.webp?11665263057" ,
+        "title" : "Remarriages and Desires",
+        "genres" : "Drame"
+    },
+    
+    {
+        "cover":"https://www.nautiljon.com/images/drama/00/74/mini/oh_my_venus_1847.webp?11596718776" ,
+        "title" : "Oh my Venus",
+        "genres" : "Comédie - Romance"
+    },
+    {
         "cover":"https://i.pinimg.com/736x/6e/e6/b0/6ee6b01bb8197e523ab2e3b3b8dccadc.jpg" ,
         "title" : "My Demon",
         "genres" : "Drame - Fantastique - Romance"
@@ -22,36 +66,47 @@
         "genres" : "Drame - Comédie - Romance"
     },
     {
-        "cover":"https://i.pinimg.com/736x/6e/e6/b0/6ee6b01bb8197e523ab2e3b3b8dccadc.jpg" ,
-        "title" : "My Demon",
-        "genres" : "Drame - Fantastique - Romance"
+        "cover":"https://www.nautiljon.com/images/drama/00/36/mini/beauty_and_mr_romantic_8663.webp?10" ,
+        "title" : "Beauty and Mr Romantic",
+        "genres" : "Romance - Vie sociale"
     },
     
     {
-        "cover":"https://i.pinimg.com/564x/93/23/c2/9323c21943c471c44b706e5202d2a4c6.jpg" ,
-        "title" : "True Beauty",
-        "genres" : "Drame - Comédie - Romance"
+        "cover":"https://www.nautiljon.com/images/drama/00/26/mini/hide_8662.webp?11711148654" ,
+        "title" : "Hide",
+        "genres" : " Mystère - Suspense - Thriller"
     },
     {
-        "cover":"https://i.pinimg.com/736x/6e/e6/b0/6ee6b01bb8197e523ab2e3b3b8dccadc.jpg" ,
-        "title" : "My Demon",
-        "genres" : "Drame - Fantastique - Romance"
-    },
-    
-    {
-        "cover":"https://i.pinimg.com/564x/93/23/c2/9323c21943c471c44b706e5202d2a4c6.jpg" ,
-        "title" : "True Beauty",
-        "genres" : "Drame - Comédie - Romance"
-    },
-    {
-        "cover":"https://i.pinimg.com/736x/6e/e6/b0/6ee6b01bb8197e523ab2e3b3b8dccadc.jpg" ,
-        "title" : "My Demon",
-        "genres" : "Drame - Fantastique - Romance"
+        "cover":"https://www.nautiljon.com/images/drama/00/75/mini/wedding_impossible_8657.webp?10" ,
+        "title" : "Wedding Impossible",
+        "genres" : "Romance"
     },
     
     {
-        "cover":"https://i.pinimg.com/564x/93/23/c2/9323c21943c471c44b706e5202d2a4c6.jpg" ,
-        "title" : "True Beauty",
-        "genres" : "Drame - Comédie - Romance"
+        "cover":"https://www.nautiljon.com/images/drama/00/03/mini/queen_of_tears_8630.webp?11710343036" ,
+        "title" : "Queen of Tears",
+        "genres" : " Romance - Drame"
+    },
+    {
+        "cover":"https://www.nautiljon.com/images/drama/00/59/mini/king_the_land_7795.webp?11700254230" ,
+        "title" : "King The Land",
+        "genres" : "Romance"
+    },
+    
+    {
+        "cover":"https://www.nautiljon.com/images/drama/00/47/mini/the_glory_7274.webp?11683850297" ,
+        "title" : "True Glory",
+        "genres" : " Drame - Mélodrame - Thriller"
+    },
+    {
+        "cover":"https://www.nautiljon.com/images/drama/00/67/mini/remarriage_desires_7276.webp?11665263057" ,
+        "title" : "Remarriages and Desires",
+        "genres" : "Drame"
+    },
+    
+    {
+        "cover":"https://www.nautiljon.com/images/drama/00/74/mini/oh_my_venus_1847.webp?11596718776" ,
+        "title" : "Oh my Venus",
+        "genres" : "Comédie - Romance"
     }
 ]

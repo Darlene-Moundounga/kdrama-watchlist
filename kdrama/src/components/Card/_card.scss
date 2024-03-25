@@ -1,6 +1,6 @@
 .Card{
     width:200px;
-    height: 300px;
+    height: 320px;
     background-color: #efe9f4;
     border-radius: 20px;
     display: flex;
@@ -11,7 +11,7 @@
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;    
     img{
       width: 100%;
-      height: 70%;
+      height: 75%;
       object-fit: cover;
       border-radius: 20px 20px 0 0;
       margin-bottom: 5px;
@@ -22,7 +22,7 @@
     }
     
     .cardTitle{
-      font-size: 18px;
+      font-size: 16px;
       font-weight: bolder;
     }
     

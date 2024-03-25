@@ -1,6 +1,6 @@
 import About from '../components/About'
 import Card from '../components/Card'
-import Header from '../components/Header'
+import Header from '../components/Header/Header'
 import kdramaData from '../data/kdramas.json'
 
 function Home() {

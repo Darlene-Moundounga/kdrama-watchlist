@@ -12,10 +12,7 @@ code {
     monospace;
 }
 
-.title{
-  display: flex;
-  justify-content: center;
-}
+@import url(./components/Header/_header.scss);
 
 .about{
   margin: 20px;

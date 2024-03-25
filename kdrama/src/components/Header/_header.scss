@@ -13,9 +13,19 @@ header{
         gap: 10px;
         color: black;
         margin: 20px;
+        a:focus{
+            text-decoration: underline;
+            text-underline-position: under;
+        }
     }
     a{
         color: black;
         text-decoration: none;
     }
+    a:hover{
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+        transition: transform 0.3s ease-in-out ;
+    }
+    
 }

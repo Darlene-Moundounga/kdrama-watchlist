@@ -1,5 +1,6 @@
 import About from '../components/About/About'
 import Card from '../components/Card/Card'
+import Footer from '../components/Footer/footer'
 import Header from '../components/Header/Header'
 import Title from '../components/pageTitle/Title'
 import kdramaData from '../data/kdramas.json'
@@ -21,6 +22,7 @@ function Home() {
                 })
              }   
         </div>
+        <Footer/>
         </div>
     )
 }

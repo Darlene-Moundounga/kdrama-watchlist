@@ -1,0 +1,31 @@
+#footer{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #efe9f4;
+    .contact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        h3{
+            font-size: 30px;
+            margin: 10px;
+        }
+        p{
+            font-size: 25px;
+            text-align: center;
+            span{
+                font-weight: bolder;
+            }
+        }
+    }
+    .link{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .fa-tiktok{
+            font-size: 30px;
+            color: black;
+        }
+    }
+}

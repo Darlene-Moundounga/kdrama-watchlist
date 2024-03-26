@@ -2,6 +2,7 @@
 @import url(./components/pageTitle/_title.scss);
 @import url(./components/Card/_card.scss);
 @import url(./components/About/_about.scss);
+@import url(./components/Footer/_footer.scss);
 body {
   margin: 0;
   font-family: "Itim", cursive;

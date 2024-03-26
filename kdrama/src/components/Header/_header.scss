@@ -6,9 +6,9 @@ header{
     position: sticky;
     top: 0;
     width: 100%;
-    padding: 10px;
     background-color: #efe9f4;
     border-bottom: 1px solid black;
+    flex-wrap: wrap;
     h1{
         margin:0 ;
     }
@@ -32,4 +32,14 @@ header{
         color: #5078f2;
     }
     
+}
+
+@media screen and (max-width:768px) {
+    header{
+        justify-content: center;
+        gap: 15px;
+        a{
+            margin: 10px;
+        }
+    }
 }
